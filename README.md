@@ -25,9 +25,3 @@ We implemented a Hybrid Ensemble Learning approach:
 
 
 
-How to Use :
-1-Clone the repository.
-
-2-Install dependencies: pip install -r requirements.txt
-
-3-Run the notebook in the notebooks/ folder.
