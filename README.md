@@ -16,7 +16,10 @@ Key Results
 
 
 Methodology
-We implemented a Hybrid Ensemble Learning approach: 1. Model A: Logistic Regression on PCA-reduced ResNet50 deep features. 2. Model B: Advanced CNN using ResNet50 Transfer Learning. 3. Ensemble: Soft voting (averaging probabilities) to maximize safety.
+We implemented a Hybrid Ensemble Learning approach: 
+1. Model A: Logistic Regression on PCA-reduced ResNet50 deep features.
+2. Model B: Advanced CNN using ResNet50 Transfer Learning.
+3. Ensemble: Soft voting (averaging probabilities) to maximize safety.
 
 
 
